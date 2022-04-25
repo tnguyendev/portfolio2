@@ -1,3 +1,10 @@
+Hi! My name is Thao. This project is my portfolio, where I talk a little about myself, showcase some of my recent works, and provide my contact information. 
+
+I kept the template mostly as is, but I did make the contact form functional using FormSpree. 
+
+Please see the author of this template's original read me notes below!	
+
+
 Strata by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
